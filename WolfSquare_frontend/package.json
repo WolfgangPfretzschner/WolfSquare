@@ -4,15 +4,15 @@
   "private": true,
   "dependencies": {
     "http": "0.0.0",
-    "leaflet": "^1.3.3",
-    "lodash": "^4.17.10",
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2",
-    "react-image-gallery": "^0.8.10",
-    "react-leaflet": "^2.0.1",
+    "leaflet": "^1.3.4",
+    "lodash": "^4.17.11",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-image-gallery": "^0.8.12",
+    "react-leaflet": "^2.1.2",
     "react-router-dom": "^4.3.1",
     "react-scripts": "1.1.4",
-    "react-slick": "^0.23.1"
+    "react-slick": "^0.23.2"
   },
   "scripts": {
     "start": "react-scripts start",
